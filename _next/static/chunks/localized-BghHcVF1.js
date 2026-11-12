@@ -1,0 +1,1 @@
+import{r as e}from"./framework-DTZGTDtF.js";var t=e();function n({ru:e,en:n}){return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(`span`,{className:`copy-ru`,children:e}),(0,t.jsx)(`span`,{className:`copy-en`,children:n})]})}export{n as t};

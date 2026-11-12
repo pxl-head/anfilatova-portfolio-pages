@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /index.txt
+Disallow: /awards.txt
+Disallow: /awards/academy-fashion-2026.txt
+Disallow: /awards/couture-russian-2026.txt
+Disallow: /awards/fashion-style-2026.txt
+Disallow: /legal/consent.txt
+Disallow: /legal/privacy.txt
+Disallow: /legal/services.txt
+Disallow: /legal/storage.txt
+Disallow: /lookbooks.txt
+Disallow: /price.txt
+Sitemap: https://art-anfilatova.ru/sitemap.xml

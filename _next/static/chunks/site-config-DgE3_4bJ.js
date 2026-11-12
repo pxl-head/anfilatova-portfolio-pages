@@ -1,0 +1,1 @@
+var e={url:`https://art-anfilatova.ru`,shopUrl:`https://shop.art-anfilatova.ru`.replace(/^https?:/,``),cardUrl:`https://art-anfilatova.ru/card`.replace(/^https?:/,``),customerFormEnabled:!1,email:`o-soiel@yandex.ru`,cardEmail:`my@anfilatova-pro.ru`,cardPhone:`+79169179920`,cardPhoneLabel:`+7 916 917-99-20`,brandUrl:`https://art-anfilatova.ru`};export{e as t};
